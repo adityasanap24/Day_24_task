@@ -1,0 +1,13 @@
+.safeArea {
+  padding-top: 4em;
+  padding-bottom: 2.5em;
+}
+
+.pageTitle {
+  margin-left: 6em;
+}
+
+.movies-container {
+  display: flex;
+  flex-wrap: wrap;
+}
